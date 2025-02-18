@@ -1,0 +1,10 @@
+#!/bin/bash
+
+x=100
+
+echo "The x value is $x"
+
+#Reassign x with a different value
+x=200
+
+echo "The new x value is: $x"
