@@ -1,0 +1,6 @@
+#!/bin/bash
+
+firstName="Jack"
+lastName="Ely"
+
+echo "Hello, $firstName $lastName!"

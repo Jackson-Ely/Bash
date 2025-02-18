@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo -e "This is line1.\n\tThis is line2.\n\t\tThis is line3"
+
+
