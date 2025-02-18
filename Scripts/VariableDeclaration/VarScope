@@ -1,0 +1,12 @@
+#!/bin/bash
+
+my_function(){
+  local inside_variable="This is inside the function"
+  echo "Variable inside the function: $inside_variable"
+
+}
+
+my_function
+
+#The following line will not work
+echo "Variable outside function: $inside_variable"
